@@ -3,3 +3,6 @@
 
 # Temp data files
 **.csv*
+
+# Test files
+test*
